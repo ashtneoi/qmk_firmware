@@ -176,15 +176,15 @@
       "KC_X",
       "KC_C",
       "KC_V",
+      "KC_LCTL",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_LSFT",
       "KC_SPC",
       "KC_TRNS",
-      "KC_TRNS"
+      "KC_LALT"
     ],
     [
       "KC_TRNS",
